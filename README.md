@@ -15,6 +15,8 @@ A Python CLI application simulating core banking operations with secure user aut
 - bcrypt (Password Hashing)
 ---
 🚀 Getting Started
+
+```bash
 - Clone the repository.
 - Create and activate a virtual environment:
 - python -m venv .venv
